@@ -1,4 +1,4 @@
-## Olá, eu sou o Gustavo Carvalho
+## Olá, seja bem vindo ao meu Github
 
 <div>
   <a href="https://github.com/GustavoPix">
@@ -22,3 +22,16 @@
  <a href="https://www.linkedin.com/in/gustavopix/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href="https://www.twitch.tv/gustavopix"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a> 
  <a href="https://steamcommunity.com/id/GustavoPix"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
+
+##
+  
+Atualmente estou trabalhando como full stack utilizando as tecnologias:
+ 
+- javascript
+- vuejs
+- html
+- css
+- php
+- mysql
+  
+E também sou cadete na 42sp 🙂, onde estou estudando C, para conhecer os projetos que já realizei, procure no meu git por *42sp*
