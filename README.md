@@ -34,4 +34,4 @@ Atualmente estou trabalhando como full stack utilizando as tecnologias:
 - php
 - mysql
   
-E também sou cadete na 42sp 🙂, onde estou estudando C. Para conhecer os projetos que já realizei da 42sp, procure no meu git por *42sp*
+E também sou estudante no curso de Engenharia de Software na 42sp 🙂. Para conhecer os projetos que já realizei da 42sp, procure no meu git por *42sp*
