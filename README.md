@@ -15,6 +15,7 @@
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/wordpress-original.svg" />
 </div>
 
 ##
@@ -28,10 +29,8 @@
 Atualmente estou trabalhando como full stack utilizando as tecnologias:
  
 - javascript
-- vuejs
 - html
 - css
 - php
-- mysql
-  
-E também sou estudante no curso de Engenharia de Software na 42sp 🙂. Para conhecer os projetos que já realizei da 42sp, procure no meu git por *42sp*
+- wordpress
+- blade
